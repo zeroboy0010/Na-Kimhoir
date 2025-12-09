@@ -1,34 +1,63 @@
-# Hi there, I'm Kimhoir Na 👋
+# 👋 Hi, I'm **Kimhoir Na**
 
-Welcome to my GitHub profile! I am an Electrical Engineering graduate from the Institute of Technology of Cambodia, class of 2024, with a strong focus on robotics and embedded systems.
+**Electrical Engineering Graduate | Robotics & Embedded Systems Developer**  
+Institute of Technology of Cambodia — Class of 2024
 
-## GitHub Stats
-![Kimhoir Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroboy0010&show_icons=true&theme=radical)
-
-## About Me
-
-I have 2 years of experience participating in the Robocon Competition, where I developed skills in programming and electronic circuit design. My technical expertise includes:
-
-- **Programming Languages**: C, C++, Python
-- **Technologies**: ROS, ROS2, STM32CubeIDE
-- **Specializations**: Robotics development, serial communication, CAN bus protocol
-
-## Projects
-
-### Robocon 2022 & 2023
-- **Role**: Programmer
-- **Description**: Worked on various robotics projects, focusing on programming and electronic circuits. Implemented serial communication and used CAN bus protocol for control signal transmission.
-
-## Skills
-
-- **Languages**: C, C++, Python
-- **Frameworks/Technologies**: ROS, ROS2, STM32CubeIDE, Pybullet, ESP32 IDF
-- **Communication Protocols**: CAN bus, Mod Bus
-
-
-## Contact
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/kimhoir-na-32210124b) or email me at [zeroeverything001@gmail.com].
+I am deeply passionate about building intelligent robotic systems, developing embedded solutions, and creating reliable real-time control architectures. My experience in competitive robotics has driven my focus on performance-oriented firmware, communication protocols, and robot motion control.
 
 ---
-⭐️ From [zeroboy0010](https://github.com/zeroboy0010)
+
+## 🚀 Tech Snapshot
+
+### Programming
+- C, C++, Python
+
+### Robotics & Embedded Platforms
+- ROS | ROS2  
+- STM32CubeIDE (STM32 Series)  
+- ESP32 IDF  
+- PyBullet Simulation
+
+### Communication Protocols
+- CAN bus  
+- Serial (UART)  
+- Modbus  
+
+---
+
+## 🏆 Robocon Experience
+
+### **Robocon 2022 & 2023 — Programmer**
+Developed control systems for competition robots with emphasis on:
+- Real-time control programming  
+- Custom electronic circuit integration  
+- Serial communication frameworks  
+- CAN bus–based motor and subsystem communication  
+- System debugging and performance optimization  
+
+These two years sharpened my ability to build resilient robotic systems under strict reliability and time constraints.
+
+---
+
+## 📊 GitHub Stats
+![Kimhoir Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroboy0010&show_icons=true&theme=radical)
+
+---
+
+## 🔧 Featured Skills Overview
+
+- **Firmware Development**: Embedded C/C++, interrupt-driven code, peripheral configuration  
+- **Robotics Systems**: Node communication, actuator control, ROS pipelines  
+- **Simulation**: Motion, dynamics, and virtual testing via PyBullet  
+- **Hardware Integration**: Sensor interfacing, motor drivers, PCB collaboration  
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn**: https://www.linkedin.com/in/kimhoir-na-32210124b  
+- **Email**: zeroeverything001@gmail.com  
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
